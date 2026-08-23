@@ -50,6 +50,15 @@ If you find this project helpful, please consider giving it a star ⭐️.
 
 ![lighthouse score](https://github.com/larry-xue/larry-xue/blob/master/assets/lighthouse.gif)
 
+## 💼 Commercial Use
+
+This template is **MIT** — use it for client work, invoice for it, ship it. No strings, no gated "pro" version.
+
+If you're shipping paid projects on it, there are three ways to support the work: a one-time
+**$75 commercial sponsorship**, a **$199 ship-assist** if you're stuck, and a **$499/yr agency plan**.
+
+**→ [Commercial use & support](./COMMERCIAL.md)**
+
 ## Installation
 
 1. Use the Astro CLI to create a new project:
@@ -178,3 +187,5 @@ Contributions are welcome! Feel free to:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+Using it commercially? See [COMMERCIAL.md](./COMMERCIAL.md) — MIT means you owe nothing, but there is a button if you'd rather not.
