@@ -4,6 +4,7 @@ import Footer from '../components/Footer.astro'
 import { ClientRouter, slide } from 'astro:transitions'
 import { GoogleAnalytics } from 'astro-google-analytics'
 import { siteConfig } from '../config'
+import DemoBanner from '../components/DemoBanner.astro'
 
 interface Props {
   title: string
@@ -26,6 +27,7 @@ const { title, description = 'A minimal blog focused on excellent reading experi
     <ClientRouter />
   </head>
   <body class="min-h-screen bg-white dark:bg-gray-900">
+    <DemoBanner />
     <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
       <Header transition:persist />
       <main class="py-12" transition:animate={slide({ duration: '.3s' })}>
