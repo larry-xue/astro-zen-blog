@@ -17,10 +17,10 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  site: "https://example.com/", // your site url
-  title: "Your's blog",
+  site: "https://astro-zen-blog.larryxue.dev/", // your site url
+  title: "Astro Zen Blog",
   slogan: "Exploring the World with Code",
-  description: "write a description here",
+  description: "A minimal, responsive and SEO-friendly blog template built with Astro.",
   social: {
     github: "https://github.com/larry-xue/astro-zen-blog", // leave empty if you don't want to show the github
     linkedin: "https://www.linkedin.com/in/someone/", // leave empty if you don't want to show the linkedin
