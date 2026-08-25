@@ -4,7 +4,7 @@
 
 一个使用 Astro 构建的极简、响应式和 SEO 友好的博客模板。具有简洁的设计、暗色模式支持和基于 markdown 的内容管理。
 
-在线演示: [Yujian's blog](https://blog.larryxue.dev/)
+在线演示: [Astro Zen Blog](https://astro-zen-blog.larryxue.dev/)
 
 如果您觉得这个项目有帮助，请考虑给我点个star～ ⭐️。
 
@@ -12,7 +12,6 @@
 
 > 如果您想要构建自己的博客，我强烈建议您 fork 这个仓库并添加您自己的功能。
 
-- [Yujian's blog](https://blog.larryxue.dev/)
 - [Okaryo's blog](https://blog.okaryo.studio/)
 
 ## 目录

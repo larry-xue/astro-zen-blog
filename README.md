@@ -4,7 +4,7 @@
 
 A minimal, responsive, and SEO-friendly blog template built with Astro. Features clean design, dark mode support, and markdown-based content management.
 
-live demo: [Yujian's blog](https://blog.larryxue.dev/)
+live demo: [Astro Zen Blog](https://astro-zen-blog.larryxue.dev/)
 
 If you find this project helpful, please consider giving it a star ⭐️.
 
@@ -12,7 +12,6 @@ If you find this project helpful, please consider giving it a star ⭐️.
 
 > For who want to build their own blog, I strongly recommend you to fork this repo and add your own features. This repo is a simple and clean blog template.
 
-- [Yujian's blog](https://blog.larryxue.dev/)
 - [Okaryo's blog](https://blog.okaryo.studio/20241228-migrate-blog-from-gatsby-to-astro/)
 
 
