@@ -29,6 +29,7 @@
 - [项目结构](#项目结构)
 - [功能路线图](#功能路线图)
 - [贡献](#贡献)
+- [其他 Astro 模板](#其他-astro-模板)
 - [许可证](#许可证)
 
 ## 特性
@@ -171,6 +172,15 @@ astro-zen-blog/
 1. Fork 这个仓库
 2. 创建您的功能分支
 3. 提交一个拉取请求
+
+## 其他 Astro 模板
+
+- **[Astroloop](https://github.com/lx-themes/astroloop)** —— 面向 AI agent 产品的落地页：带人工闸门的 agent loop 流程图，以及逐工具的权限矩阵。[Demo](https://astroloop.larryxue.dev)
+- [Astro Sassify](https://github.com/larry-xue/astro-sassify-template) —— SaaS 落地页，完整设计系统、暗色模式与视图过渡。[Demo](https://astro-sassify.larryxue.dev/)
+- [Apple-Style Portfolio](https://github.com/larry-xue/apple-style-portfolio) —— 极简作品集，GSAP 动效与 Three.js 点缀。[Demo](https://apple-style-portfolio.larryxue.dev)
+- [Quiet Bar](https://github.com/larry-xue/quiet-bar) —— 酒吧 / 餐厅单页。无 CSS 框架，无 JS 库。[Demo](https://quiet-bar-theme.larryxue.dev)
+
+全部 MIT，均可商用。
 
 ## 许可证
 

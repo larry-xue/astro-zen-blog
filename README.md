@@ -184,6 +184,15 @@ Contributions are welcome! Feel free to:
 2. Create your feature branch
 3. Submit a pull request
 
+## More Astro templates
+
+- **[Astroloop](https://github.com/lx-themes/astroloop)** — a landing page for AI agent products: an agent-loop diagram with a human handoff gate, and a per-tool permission matrix. [Demo](https://astroloop.larryxue.dev)
+- [Astro Sassify](https://github.com/larry-xue/astro-sassify-template) — a SaaS landing page with a full design system, dark mode and view transitions. [Demo](https://astro-sassify.larryxue.dev/)
+- [Apple-Style Portfolio](https://github.com/larry-xue/apple-style-portfolio) — a minimalist portfolio with GSAP motion and a Three.js accent. [Demo](https://apple-style-portfolio.larryxue.dev)
+- [Quiet Bar](https://github.com/larry-xue/quiet-bar) — a one-pager for a bar or restaurant. No CSS framework, no JavaScript libraries. [Demo](https://quiet-bar-theme.larryxue.dev)
+
+All MIT, all free for commercial use.
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
